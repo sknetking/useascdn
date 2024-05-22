@@ -1,0 +1,3942 @@
+[
+ {
+  "State": "Andaman Nicobar",
+  "District": "Nicobar",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Andaman Nicobar",
+  "District": "North Middle Andaman",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Andaman Nicobar",
+  "District": "South Andaman",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Alluri Sitarama Raju",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Anakapalli",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Anantapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Annamaya",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Bapatla",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Chittoor",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "East Godavari",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Eluru",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Guntur",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Kadapa",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Kakinada ",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Konaseema",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Krishna",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Kurnool",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Manyam",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "N T Rama Rao",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Nandyal",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Nellore",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Palnadu",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Prakasam",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Sri Balaji",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Sri Satya Sai",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Srikakulam",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Visakhapatnam",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "Vizianagaram",
+  "State Type": "State"
+ },
+ {
+  "State": "Andhra Pradesh",
+  "District": "West Godavari",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Anjaw",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Bichom",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Central Siang",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Changlang",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Dibang Valley",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "East Kameng",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "East Siang",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Kamle",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Keyi Panyor",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Kra Daadi",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Kurung Kumey",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Lepa Rada",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Lohit",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Longding",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Lower Dibang Valley",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Lower Siang",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Lower Subansiri",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Namsai",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Pakke Kessang",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Papum Pare",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Shi Yomi",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Tawang",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Tirap",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Upper Siang",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "Upper Subansiri",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "West Kameng",
+  "State Type": "State"
+ },
+ {
+  "State": "Arunachal Pradesh",
+  "District": "West Siang",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Bajali",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Baksa",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Barpeta",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Biswanath",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Bongaigaon",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Cachar",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Charaideo",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Chirang",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Darrang",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Dhemaji",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Dhubri",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Dibrugarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Dima Hasao",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Goalpara",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Golaghat",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Hailakandi",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Hojai",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Jorhat",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Kamrup",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Kamrup Metropolitan",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Karbi Anglong",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Karimganj",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Kokrajhar",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Lakhimpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Majuli",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Morigaon",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Nagaon",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Nalbari",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Sivasagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Sonitpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "South Salmara-Mankachar",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Tamulpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Tinsukia",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "Udalguri",
+  "State Type": "State"
+ },
+ {
+  "State": "Assam",
+  "District": "West Karbi Anglong",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Araria",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Arwal",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Aurangabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Banka",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Begusarai",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Bhagalpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Bhojpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Buxar",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Darbhanga",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "East Champaran",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Gaya",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Gopalganj",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Jamui",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Jehanabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Kaimur",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Katihar",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Khagaria",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Kishanganj",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Lakhisarai",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Madhepura",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Madhubani",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Munger",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Muzaffarpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Nalanda",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Nawada",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Patna",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Purnia",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Rohtas",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Saharsa",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Samastipur",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Saran",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Sheikhpura",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Sheohar",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Sitamarhi",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Siwan",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Supaul",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "Vaishali",
+  "State Type": "State"
+ },
+ {
+  "State": "Bihar",
+  "District": "West Champaran",
+  "State Type": "State"
+ },
+ {
+  "State": "Chandigarh",
+  "District": "Chandigarh",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Balod",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Baloda Bazar",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Balrampur",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Bastar",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Bemetara",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Bijapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Bilaspur",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Dantewada",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Dhamtari",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Durg",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Gariaband",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Gaurela Pendra Marwahi",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Janjgir Champa",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Jashpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Kabirdham",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Kanker",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Khairagarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Kondagaon",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Korba",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Koriya",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Mahasamund",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Manendragarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Mohla Manpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Mungeli",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Narayanpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Raigarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Raipur",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Rajnandgaon",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Sakti",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Sarangarh Bilaigarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Sukma",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Surajpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Chhattisgarh",
+  "District": "Surguja",
+  "State Type": "State"
+ },
+ {
+  "State": "Dadra and Nagar Haveli and Daman and Diu",
+  "District": "Dadra and Nagar Haveli",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Dadra and Nagar Haveli and Daman and Diu",
+  "District": "Daman",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Dadra and Nagar Haveli and Daman and Diu",
+  "District": "Diu",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "Central Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "East Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "New Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "North Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "North East Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "North West Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "Shahdara",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "South Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "South East Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "South West Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Delhi",
+  "District": "West Delhi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Goa",
+  "District": "North Goa",
+  "State Type": "State"
+ },
+ {
+  "State": "Goa",
+  "District": "South Goa",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Ahmedabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Amreli",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Anand",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Aravalli",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Banaskantha",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Bharuch",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Bhavnagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Botad",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Chhota Udaipur",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Dahod",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Dang",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Devbhoomi Dwarka",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Gandhinagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Gir Somnath",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Jamnagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Junagadh",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Kheda",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Kutch",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Mahisagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Mehsana",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Morbi",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Narmada",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Navsari",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Panchmahal",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Patan",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Porbandar",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Rajkot",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Sabarkantha",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Surat",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Surendranagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Tapi",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Vadodara",
+  "State Type": "State"
+ },
+ {
+  "State": "Gujarat",
+  "District": "Valsad",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Ambala",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Bhiwani",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Charkhi Dadri",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Faridabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Fatehabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Gurugram",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Hisar",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Jhajjar",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Jind",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Kaithal",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Karnal",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Kurukshetra",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Mahendragarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Mewat",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Palwal",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Panchkula",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Panipat",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Rewari",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Rohtak",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Sirsa",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Sonipat",
+  "State Type": "State"
+ },
+ {
+  "State": "Haryana",
+  "District": "Yamunanagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Bilaspur",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Chamba",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Hamirpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Kangra",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Kinnaur",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Kullu",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Lahaul Spiti",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Mandi",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Shimla",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Sirmaur",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Solan",
+  "State Type": "State"
+ },
+ {
+  "State": "Himachal Pradesh",
+  "District": "Una",
+  "State Type": "State"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Anantnag",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Bandipora",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Baramulla",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Budgam",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Doda",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Ganderbal",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Jammu",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Kathua",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Kishtwar",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Kulgam",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Kupwara",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Poonch",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Pulwama",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Rajouri",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Ramban",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Reasi",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Samba",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Shopian",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Srinagar",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jammu Kashmir",
+  "District": "Udhampur",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Bokaro",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Chatra",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Deoghar",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Dhanbad",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Dumka",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "East Singhbhum",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Garhwa",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Giridih",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Godda",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Gumla",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Hazaribagh",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Jamtara",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Khunti",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Koderma",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Latehar",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Lohardaga",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Pakur",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Palamu",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Ramgarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Ranchi",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Sahebganj",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Seraikela Kharsawan",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "Simdega",
+  "State Type": "State"
+ },
+ {
+  "State": "Jharkhand",
+  "District": "West Singhbhum",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Bagalkot",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Bangalore Rural",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Bangalore Urban",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Belgaum",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Bellary",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Bidar",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Chamarajanagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Chikkaballapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Chikkamagaluru",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Chitradurga",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Dakshina Kannada",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Davanagere",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Dharwad",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Gadag",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Gulbarga",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Hassan",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Haveri",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Kodagu",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Kolar",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Koppal",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Mandya",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Mysore",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Raichur",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Ramanagara",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Shimoga",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Tumkur",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Udupi",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Uttara Kannada",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Vijayanagara",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Vijayapura ",
+  "State Type": "State"
+ },
+ {
+  "State": "Karnataka",
+  "District": "Yadgir",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Alappuzha",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Ernakulam",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Idukki",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Kannur",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Kasaragod",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Kollam",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Kottayam",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Kozhikode",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Malappuram",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Palakkad",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Pathanamthitta",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Thiruvananthapuram",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Thrissur",
+  "State Type": "State"
+ },
+ {
+  "State": "Kerala",
+  "District": "Wayanad",
+  "State Type": "State"
+ },
+ {
+  "State": "Ladakh",
+  "District": "Kargil",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Ladakh",
+  "District": "Leh",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Lakshadweep",
+  "District": "Lakshadweep",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Agar Malwa",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Alirajpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Anuppur",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Ashoknagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Balaghat",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Barwani",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Betul",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Bhind",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Bhopal",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Burhanpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Chachaura",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Chhatarpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Chhindwara",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Damoh",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Datia",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Dewas",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Dhar",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Dindori",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Guna",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Gwalior",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Harda",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Hoshangabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Indore",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Jabalpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Jhabua",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Katni",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Khandwa",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Khargone",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Maihar",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Mandla",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Mandsaur",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Morena",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Nagda",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Narsinghpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Neemuch",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Niwari",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Pandhurna",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Panna",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Raisen",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Rajgarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Ratlam",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Rewa",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Sagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Satna",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Sehore",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Seoni",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Shahdol",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Shajapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Sheopur",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Shivpuri",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Sidhi",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Singrauli",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Tikamgarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Ujjain",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Umaria",
+  "State Type": "State"
+ },
+ {
+  "State": "Madhya Pradesh",
+  "District": "Vidisha",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Ahmednagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Akola",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Amravati",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Aurangabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Beed",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Bhandara",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Buldhana",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Chandrapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Dhule",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Gadchiroli",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Gondia",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Hingoli",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Jalgaon",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Jalna",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Kolhapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Latur",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Mumbai City",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Mumbai Suburban",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Nagpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Nanded",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Nandurbar",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Nashik",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Osmanabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Palghar",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Parbhani",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Pune",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Raigad",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Ratnagiri",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Sangli",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Satara",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Sindhudurg",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Solapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Thane",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Wardha",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Washim",
+  "State Type": "State"
+ },
+ {
+  "State": "Maharashtra",
+  "District": "Yavatmal",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Bishnupur",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Chandel",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Churachandpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Imphal East",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Imphal West",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Jiribam",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Kakching",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Kamjong",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Kangpokpi",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Noney",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Pherzawl",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Senapati",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Tamenglong",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Tengnoupal",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Thoubal",
+  "State Type": "State"
+ },
+ {
+  "State": "Manipur",
+  "District": "Ukhrul",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "East Garo Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "East Jaintia Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "East Khasi Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "Mairang",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "North Garo Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "Ri Bhoi",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "South Garo Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "South West Garo Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "South West Khasi Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "West Garo Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "West Jaintia Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Meghalaya",
+  "District": "West Khasi Hills",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Aizawl",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Champhai",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Hnahthial",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Khawzawl",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Kolasib",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Lawngtlai",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Lunglei",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Mamit",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Saiha",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Saitual",
+  "State Type": "State"
+ },
+ {
+  "State": "Mizoram",
+  "District": "Serchhip",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Chumukedima",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Dimapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Kiphire",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Kohima",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Longleng",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Mokokchung",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Mon",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Niuland",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Noklak",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Peren",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Phek",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Shamator",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Tseminyu",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Tuensang",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Wokha",
+  "State Type": "State"
+ },
+ {
+  "State": "Nagaland",
+  "District": "Zunheboto",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Angul",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Balangir",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Balasore",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Bargarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Bhadrak",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Boudh",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Cuttack",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Debagarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Dhenkanal",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Gajapati",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Ganjam",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Jagatsinghpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Jajpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Jharsuguda",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Kalahandi",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Kandhamal",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Kendrapara",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Kendujhar",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Khordha",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Koraput",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Malkangiri",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Mayurbhanj",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Nabarangpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Nayagarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Nuapada",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Puri",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Rayagada",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Sambalpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Subarnapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Odisha",
+  "District": "Sundergarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Puducherry",
+  "District": "Karaikal",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Puducherry",
+  "District": "Mahe",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Puducherry",
+  "District": "Puducherry",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Puducherry",
+  "District": "Yanam",
+  "State Type": "Union Territory"
+ },
+ {
+  "State": "Punjab",
+  "District": "Amritsar",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Barnala",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Bathinda",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Faridkot",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Fatehgarh Sahib",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Fazilka",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Firozpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Gurdaspur",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Hoshiarpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Jalandhar",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Kapurthala",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Ludhiana",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Malerkotla",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Mansa",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Moga",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Mohali",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Muktsar",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Pathankot",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Patiala",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Rupnagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Sangrur",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Shaheed Bhagat Singh Nagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Punjab",
+  "District": "Tarn Taran",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Ajmer",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Alwar",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Anupgarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Balotra",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Banswara",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Baran",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Barmer",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Beawar",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Bharatpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Bhilwara",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Bikaner",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Bundi",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Chittorgarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Churu",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Dausa",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Deeg",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Dholpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Didwana-Kuchaman",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Dudu",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Dungarpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Gangapur City",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Hanumangarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Jaipur",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Jaipur Rural",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Jaisalmer",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Jalore",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Jhalawar",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Jhunjhunu",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Jodhpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Jodhpur Rural",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Karauli",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Kekri",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Khairthal–Tijara",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Kota",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Kotputli-Behror",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Nagaur",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Neem ka Thana",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Pali",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Phalodi",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Pratapgarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Rajsamand",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Salumbar",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Sanchore",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Sawai Madhopur",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Shahpura",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Sikar",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Sirohi",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Sri Ganganagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Tonk",
+  "State Type": "State"
+ },
+ {
+  "State": "Rajasthan",
+  "District": "Udaipur",
+  "State Type": "State"
+ },
+ {
+  "State": "Sikkim",
+  "District": "East Sikkim",
+  "State Type": "State"
+ },
+ {
+  "State": "Sikkim",
+  "District": "North Sikkim",
+  "State Type": "State"
+ },
+ {
+  "State": "Sikkim",
+  "District": "Pakyong",
+  "State Type": "State"
+ },
+ {
+  "State": "Sikkim",
+  "District": "Soreng",
+  "State Type": "State"
+ },
+ {
+  "State": "Sikkim",
+  "District": "South Sikkim",
+  "State Type": "State"
+ },
+ {
+  "State": "Sikkim",
+  "District": "West Sikkim",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Ariyalur",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Chengalpattu",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Chennai",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Coimbatore",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Cuddalore",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Dharmapuri",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Dindigul",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Erode",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Kallakurichi",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Kanchipuram",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Kanyakumari",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Karur",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Krishnagiri",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Madurai",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Mayiladuthurai ",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Nagapattinam",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Namakkal",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Nilgiris",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Perambalur",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Pudukkottai",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Ramanathapuram",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Ranipet",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Salem",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Sivaganga",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Tenkasi",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Thanjavur",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Theni",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Thoothukudi",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Tiruchirappalli",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Tirunelveli",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Tirupattur",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Tiruppur",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Tiruvallur",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Tiruvannamalai",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Tiruvarur",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Vellore",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Viluppuram",
+  "State Type": "State"
+ },
+ {
+  "State": "Tamil Nadu",
+  "District": "Virudhunagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Adilabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Bhadradri Kothagudem",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Hanamkonda",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Hyderabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Jagtial",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Jangaon",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Jayashankar",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Jogulamba",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Kamareddy",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Karimnagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Khammam",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Komaram Bheem",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Mahabubabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Mahbubnagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Mancherial",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Medak",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Medchal",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Mulugu",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Nagarkurnool",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Nalgonda",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Narayanpet",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Nirmal",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Nizamabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Peddapalli",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Rajanna Sircilla",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Ranga Reddy",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Sangareddy",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Siddipet",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Suryapet",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Vikarabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Wanaparthy",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Warangal",
+  "State Type": "State"
+ },
+ {
+  "State": "Telangana",
+  "District": "Yadadri Bhuvanagiri",
+  "State Type": "State"
+ },
+ {
+  "State": "Tripura",
+  "District": "Dhalai",
+  "State Type": "State"
+ },
+ {
+  "State": "Tripura",
+  "District": "Gomati",
+  "State Type": "State"
+ },
+ {
+  "State": "Tripura",
+  "District": "Khowai",
+  "State Type": "State"
+ },
+ {
+  "State": "Tripura",
+  "District": "North Tripura",
+  "State Type": "State"
+ },
+ {
+  "State": "Tripura",
+  "District": "Sepahijala",
+  "State Type": "State"
+ },
+ {
+  "State": "Tripura",
+  "District": "South Tripura",
+  "State Type": "State"
+ },
+ {
+  "State": "Tripura",
+  "District": "Unakoti",
+  "State Type": "State"
+ },
+ {
+  "State": "Tripura",
+  "District": "West Tripura",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Agra",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Aligarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Ambedkar Nagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Amethi",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Amroha",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Auraiya",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Ayodhya",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Azamgarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Baghpat",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Bahraich",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Ballia",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Balrampur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Banda",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Barabanki",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Bareilly",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Basti",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Bhadohi",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Bijnor",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Budaun",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Bulandshahr",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Chandauli",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Chitrakoot",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Deoria",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Etah",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Etawah",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Farrukhabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Fatehpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Firozabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Gautam Buddha Nagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Ghaziabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Ghazipur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Gonda",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Gorakhpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Hamirpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Hapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Hardoi",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Hathras",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Jalaun",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Jaunpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Jhansi",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Kannauj",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Kanpur Dehat",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Kanpur Nagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Kasganj",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Kaushambi",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Kheri",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Kushinagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Lalitpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Lucknow",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Maharajganj",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Mahoba",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Mainpuri",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Mathura",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Mau",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Meerut",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Mirzapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Moradabad",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Muzaffarnagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Pilibhit",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Pratapgarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Prayagraj",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Raebareli",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Rampur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Saharanpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Sambhal",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Sant Kabir Nagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Shahjahanpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Shamli",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Shravasti",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Siddharthnagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Sitapur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Sonbhadra",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Sultanpur",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Unnao",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttar Pradesh",
+  "District": "Varanasi",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Almora",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Bageshwar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Chamoli",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Champawat",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Dehradun",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Haridwar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Nainital",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Pauri",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Pithoragarh",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Rudraprayag",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Tehri",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Udham Singh Nagar",
+  "State Type": "State"
+ },
+ {
+  "State": "Uttarakhand",
+  "District": "Uttarkashi",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Alipurduar",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Bankura",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Birbhum",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Cooch Behar",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Dakshin Dinajpur",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Darjeeling",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Hooghly",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Howrah",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Jalpaiguri",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Jhargram",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Kalimpong",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Kolkata",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Malda",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Murshidabad",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Nadia",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "North 24 Parganas",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Paschim Bardhaman",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Paschim Medinipur",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Purba Bardhaman",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Purba Medinipur",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Purulia",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "South 24 Parganas",
+  "State Type": "State"
+ },
+ {
+  "State": "West Bengal",
+  "District": "Uttar Dinajpur",
+  "State Type": "State"
+ }
+]
